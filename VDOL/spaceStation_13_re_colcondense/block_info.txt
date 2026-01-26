@@ -1,0 +1,8 @@
+BLOCK_M=16
+BLOCK_K=16
+Original_M=1617
+Original_K=1617
+Block_rows=102
+Block_cols=102
+Num_blocks=329
+Total_values_stored=84224
